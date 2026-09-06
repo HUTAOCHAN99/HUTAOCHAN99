@@ -1,15 +1,15 @@
 # Ahmad Zhofir Amanullah Nayif
 ### アフマッド・ゾフィール・アマヌッラー・ナイフ
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=HUTAOCHAN99&label=Profile%20Views&color=blue&style=flat-square" alt="HUTAOCHAN99" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://lanyard.cnrad.dev/api/1440349117430632563?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="Discord Presence" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://zhofir.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-zhofir.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:ahmadzhofir1808@hmail.com"><img src="https://img.shields.io/badge/Email-ahmadzhofir1808@hmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br />
