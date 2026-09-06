@@ -85,7 +85,13 @@ Passionate about tools, low-level systems, and exploring new tech.
   <img src="hutao.gif" alt="Hu Tao" />
 </p>
 
-💬 Open to collaboration — feel free to connect!
+## 🔗 Wanna Chat?
+
+<p align="center">
+  <a href="https://wa.me/6285656305716" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-085656305716-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 <br />
 <p align="center">
