@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Ahmad Zhofir Amanullah Nayif
 ### アフマッド・ゾフィール・アマヌッラー・ナイフ
 
@@ -78,8 +80,21 @@ Passionate about tools, low-level systems, and exploring new tech.
 - **Interests:** Anime, Manga, Open-World & Anime-Style Games, Finance
 
 ---
+
 <p align="center">
   <img src="hutao.gif" alt="Hu Tao" />
 </p>
 
 💬 Open to collaboration — feel free to connect!
+
+<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D90429&section=footer" />
+</p>
+
+<br />
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  </a>
+</p>
