@@ -1,6 +1,14 @@
 # Ahmad Zhofir Amanullah Nayif
 ### アフマッド・ゾフィール・アマヌッラー・ナイフ
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=HUTAOCHAN99&label=Profile%20Views&color=blue&style=flat-square" alt="HUTAOCHAN99" />
+</p>
+
+<p align="left">
+  <img src="https://lanyard.cnrad.dev/api/1440349117430632563?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="Discord Presence" />
+</p>
+
 Full-Stack Developer focused on web, mobile, automation, and AI-powered applications.
 I specialize in designing scalable systems, building performant applications, and turning ideas into real products.
 
