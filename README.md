@@ -65,5 +65,7 @@ Passionate about tools, low-level systems, and exploring new tech.
 - **Interests:** Anime, Manga, Open-World & Anime-Style Games, Finance
 
 ---
+![Hu Tao](hutao.gif)
 
 💬 Open to collaboration — feel free to connect!
+
