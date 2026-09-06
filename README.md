@@ -42,6 +42,19 @@ Passionate about tools, low-level systems, and exploring new tech.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=HUTAOCHAN99&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HUTAOCHAN99&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HUTAOCHAN99&theme=dark" />
+</p>
+
+---
+
 ### 🚀 Current Projects
 
 - **Madrasah Diniyah Nurul Huda Kebondalem** — Information System
@@ -70,4 +83,3 @@ Passionate about tools, low-level systems, and exploring new tech.
 </p>
 
 💬 Open to collaboration — feel free to connect!
-
