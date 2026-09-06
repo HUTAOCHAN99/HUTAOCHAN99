@@ -9,6 +9,14 @@
   <img src="https://lanyard.cnrad.dev/api/1440349117430632563?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="Discord Presence" />
 </p>
 
+<p align="left">
+  <a href="https://zhofir.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-zhofir.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ahmadzhofir1808@hmail.com"><img src="https://img.shields.io/badge/Email-ahmadzhofir1808@hmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br />
+  <a href="https://instagram.com/ahmad_zhofir_a_nayif" target="_blank"><img src="https://img.shields.io/badge/Instagram-@ahmad__zhofir__a__nayif-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-hutaochan99-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
 Full-Stack Developer focused on web, mobile, automation, and AI-powered applications.
 I specialize in designing scalable systems, building performant applications, and turning ideas into real products.
 
